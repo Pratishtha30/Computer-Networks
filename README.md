@@ -1,7 +1,6 @@
 # Computer-Networks
 Assignments
-Program 1: 
-
+Assignment 1: 
 PacketUtil.h and PacketUtil.c is needed to compile the program.
 PacketUtil.h and PacketUtil.c are header files which give detail about how various packet are formed. 
 Datapacket, Ackpacket and Rejectpacket are made as per asked by the assignment.
@@ -21,7 +20,8 @@ The client will send corrupted packet according to each error.
 The server will send reject packet to client accordingly.
 
 
-Program 2:
+Assignment 2:
+
 The Verification_Database is present in the text document which has the Subscriber Number, Technology and Paid fields.
 The input user should provide subscriber number without hypen.
 The Identification request packet is verified against the data present in the text file and the acknowledgement is returned by the server.
